@@ -1,0 +1,28 @@
+In this Section We'll learn..
+
+1.Type Annotations
+2.Arrow Functions
+3.Interfaces
+4.Classes
+5.Constructor
+6.Access Modifier
+7.Properties
+8.Modules
+
+What is typescript ?
+
+TypeSCript is a superset of javascript, that means any valid JS is a TS but not all TS is a JS 
+TS have a additional feature than JS that  do not exist in current version of JS like, for Ex :- 
+
+In TS we have concept call as Strong Typing/ Static Typing  
+:- We don't need to specify type of a variable in JS while in TS we can specify the type of the variable like we 
+do in C#, javascript
+
+
+TS brings the features of object Oriented features to JS
+
+Using TS we can catch most of the errors while complie time instead of catching run-time errors
+
+Great Tooling - intellisense
+
+OFU:- All your typescript code get compile to JS with the help of webpack 
