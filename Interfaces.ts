@@ -1,4 +1,4 @@
-/*what if we have a function which require multiple parameter for it's complete execution, what we can do is 
+/*what if we have a function which require multiple parameter for it's complete execution?, what we can do is 
  pass individual parameter or can pass object or can use inline annotations or can use Interfaces */
 
 
