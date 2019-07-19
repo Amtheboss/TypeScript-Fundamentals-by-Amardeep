@@ -38,6 +38,6 @@ class Point{
 
 let point = new Point();
 //point.x object point will not be able to access x property
-point.y
+point.y //Since y is public we will not get error here
 point.draw();
 
